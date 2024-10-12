@@ -1,3 +1,3 @@
 # materi-github
-# Adelia ramadani
-# adel
+# kader pert 6
+# git hub
